@@ -438,6 +438,9 @@ section .title::after{
 .skills-content .column-right .myql::before{
     width: 60%;
 }
+.skills-content .column-right .qt::before{
+    width: 80%;
+}
 /* teams section styling */
 .education .title::after{
     content: "where i studied";
