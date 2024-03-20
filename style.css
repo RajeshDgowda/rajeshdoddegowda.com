@@ -433,10 +433,10 @@ section .title::after{
     width: 70%;
 }
 .skills-content .column-right .sql::before{
-    width: 50%;
+    width: 80%;
 }
 .skills-content .column-right .myql::before{
-    width: 60%;
+    width: 90%;
 }
 .skills-content .column-right .qt::before{
     width: 80%;
