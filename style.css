@@ -35,10 +35,11 @@ section{
     padding: 0 80px;
     margin: auto;
 }
-.about, .certifications, .skills, .education, .contact, footer{
+.about, .Experience, .certifications, .skills, .education, .contact, footer{
     font-family: 'Poppins', sans-serif;
 }
 .about .about-content,
+.Experience .Experience-content,
 .certifications .serv-content,
 .skills .skills-content,
 .contact .contact-content{
